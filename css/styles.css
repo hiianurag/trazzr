@@ -491,6 +491,7 @@ h4 {
   border-radius: 50%;
   margin: 0 auto var(--spacing-sm);
   object-fit: cover;
+  border: 3px solid var(--color-bg-soft-green);
 }
 
 .founder-name {
